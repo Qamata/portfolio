@@ -7,6 +7,8 @@ SKILLS ANDPROFICIENCIES
 Python, C, ML and AIalgorithms, Matlab, SQL, Tableau, GitHub.
 Teamwork, analytical, multitasking, and attention to detail.
 
+
+EXPERIENCE
 IT TECHNICIAN
 Isquared Technologies | Feb 2021 - Present
 -Resolve hardware and software concerns.
@@ -27,3 +29,4 @@ Helping Handz | Jan 2019 - Jan 2020
 
 
 Projects:
+Topics covered on the projects: Natural Language processing, SQL\SQLite, Data visualizations, Exploratory Data Analysis, Supervised learning, Unsupervised learning, Image Processing and Neural Networks  
